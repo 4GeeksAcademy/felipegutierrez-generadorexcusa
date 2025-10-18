@@ -23,7 +23,7 @@ window.onload = function() {
   
  let resultado = `${optionwho} ${optionaction} ${optionwhat} ${optionwhen}`;
   document.getElementById("excuse").innerText = resultado
-  return resultado
+
  
 
 };
